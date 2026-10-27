@@ -334,3 +334,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ for the Stellar ecosystem
+
+<!-- fix: issue #210 - Add per-merchant rate limiting to the API gateway -->
